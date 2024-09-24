@@ -1,0 +1,16 @@
+
+langchain-community
+transformers
+langchain 
+torch
+ctransformers
+pandas
+numpy
+accelerate
+transformers 
+datasets 
+soundfile 
+streamlit
+faiss-cpu
+sentence-transformers
+Image
